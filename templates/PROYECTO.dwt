@@ -67,10 +67,10 @@ a:hover {
           <p>&nbsp;</p>
         <!-- TemplateEndEditable --></div>
         <div id="contenido2">
-          <p><a href="../Index.html">Index</a></p>
-          <p><a href="../Página 1.html">Clash of Clans</a></p>
-          <p><a href="../Página 2.html">Clash Royale</a></p>
-          <p><a href="../PÁGINA 3.html">Brawl Stars</a></p>
+          <p><a href="../index.html">Index</a></p>
+          <p><a href="../pagina1.html">Clash of Clans</a></p>
+          <p><a href="../pagina2.html">Clash Royale</a></p>
+          <p><a href="../pagina2.html">Brawl Stars</a></p>
         </div>
         <div id="pie"><img src="../Barbaro.png" width="410" height="200" alt=""/><img src="../Rey.png" width="410" height="200" alt=""/><img src="../Brawl.jpg" width="448" height="200" alt=""/></div>
         
